@@ -1,0 +1,5 @@
+NULL|NULL|NULL|NULL|NULL|admin|920|NULL
+C-001|Nguyen The Anh|Saigon|0987654321|Platinum|TheAnh28|1234|44000000
+C-002|Nguyen Bao Minh|Azerbaijan|0123456789|Gold|MinhNguyen|1234|13190000
+C-003|Tran Viet Hoang|Vietnam|0999888777|Bronze|HoangTran|1234|0
+C-004|Nguyen Hoang Khanh Duc|Hanoi|0111222333|Silver|KhanhDuc|1234|5500000
